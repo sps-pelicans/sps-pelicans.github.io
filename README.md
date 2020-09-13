@@ -2,7 +2,7 @@
 
 ## Mission
 
-_ the fundamental purpose applicable now as well as in the future_
+_the fundamental purpose applicable now as well as in the future_
 
 A platform where Saint Paul's School community members - students, staff, alums and parents - of all ages convene to have their voices heard, share thoughts, mentor each other, network with each other, etc.
 
@@ -27,7 +27,7 @@ _a descriptive picture of a desired future state_
 
 ## Values
 
-_Ethics, principles, beliefs shared among the members of the community_
+_ethics, principles, beliefs shared among the members of the community_
 
 The platform is:
 
@@ -54,10 +54,14 @@ As part of the vision, we also need to have a preliminary execution plan:
 
 ## Glossary
 
-Terms are derived from words typically used at Saint Paul's for similar functions
+_terms are derived from words typically used at Saint Paul's for similar functions_
 
 ### Constituencies
 
 * "Council": 10 to 20 max - People who contribute a lot to Pelicans
 * "Supervisors": 100 or so who can get the message out to the various Pelican constituencies
 * "Pelicans": the 10K - members of the SPS community who are happy to receive messages and act or resound on occasion
+
+***
+
+<center><img src=images/pelican.svg ></center>
