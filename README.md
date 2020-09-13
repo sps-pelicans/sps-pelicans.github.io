@@ -1,7 +1,11 @@
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://sps-pelicans.github.io/2020/readme.html "View file as a web page." ) </span>
+
 # SPS Pelicans
 
 
 > Grant, O Lord, that in all the joys of life, we may never forget to be kind. Help us to be unselfish in friendship, thoughtful of those less happy than ourselves, and eager to bear the burdens of others.
+
+_This web presence is a placeholder only. Actual location, content and appearance is a work-in-progress_
 
 
 ## Mission
