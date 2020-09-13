@@ -3,6 +3,11 @@
 # SPS
 
 
+* https://sps.edu
+* https://www.spshorae.com/
+
+## SPS Community
+
 * https://www.instagram.com/blackatsps/
 * https://www.instagram.com/sps2020society/
 * https://www.instagram.com/spssurvivors/

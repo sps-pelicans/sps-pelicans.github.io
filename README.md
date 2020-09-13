@@ -72,4 +72,4 @@ _terms are derived from words typically used at Saint Paul's for similar functio
 
 ***
 
-<center><img src=images/pelican.svg width=30 ></center>
+<center><a href="javascript:window.scrollTo(0,0);" style=text-decoration:none; title="hello! Click me to go up to the top" > <img width=30 src="images/pelican.svg" > </a></center>
