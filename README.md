@@ -64,4 +64,4 @@ _terms are derived from words typically used at Saint Paul's for similar functio
 
 ***
 
-<center><img src=images/pelican.svg ></center>
+<center><img src=images/pelican.svg width=30 ></center>
