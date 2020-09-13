@@ -101,7 +101,7 @@
 			</details>
 
 <!--
-			<details class=detNavMenu id=detView ontoggle="">
+			<details class=detNavMenuC id=detView ontoggle="">
 
 				<summary class="sumPrimary gmd-1" title="View selected model aspects" >view menu</summary>
 
@@ -115,7 +115,7 @@
 
 			</details>
 
-			<details class=detNavMenu id=detData ontoggle=JTV.init();JTV.onLoad(); >
+			<details class=detNavMenuC id=detData ontoggle=JTV.init();JTV.onLoad(); >
 
 				<summary class="sumPrimary gmd-1" title="Browse the data in the file" >data menu</summary>
 
@@ -144,8 +144,8 @@
 
 			<footer>
 
-				<div title="go to top of menu" style=text-align:center;>
-					<a class=aDingbat href=javascript:navMenu.scrollTo(0,0);>
+				<div style=text-align:center;>
+					<a class=aDingbat href="javascript:sumNavMenu.scrollIntoView();" title="go to top of menu" >
 						<img src="./images/pelican.svg" width=30>
 					</a>
 				</div>
@@ -192,7 +192,7 @@
 
 			} else {
 
-				detNavMenu.open = true
+				detNavMenu.open = true;
 
 			}
 
