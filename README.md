@@ -7,6 +7,10 @@
 
 _This web presence is a placeholder only. Actual location, content and appearance is a work-in-progress_
 
+_The left menu contains content for editing and development_
+
+_The following sections will soon become separate web pages._
+
 
 ## Mission
 
