@@ -1,4 +1,4 @@
-<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://sps-pelicans.github.io/2020/readme.html#about.md "View file as a web page." ) </span>
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://sps-pelicans.github.io/#about.md "View file as a web page." ) </span>
 
 # About Pelicans
 

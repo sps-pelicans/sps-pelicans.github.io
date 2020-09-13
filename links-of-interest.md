@@ -1,3 +1,6 @@
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://sps-pelicans.github.io/#links-of-interest.md "View file as a web page." ) </span>
+
+
 # Links of interest
 
 # SPS
@@ -36,3 +39,8 @@
 ## People
 
 * https://www.instagram.com/lacycrawford/
+
+
+***
+
+<center><a href="javascript:window.scrollTo(0,0);" style=text-decoration:none; title="hello! Click me to go up to the top" > <img width=30 src="images/pelican.svg" > </a></center>
