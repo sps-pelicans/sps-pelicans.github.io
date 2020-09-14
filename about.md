@@ -17,6 +17,4 @@ The community and this web presence have no direct relationship with the School 
 
 ***
 
-
-
 <center><a href="javascript:window.scrollTo(0,0);" style=text-decoration:none; title="hello! Click me to go up to the top" > <img width=30 src="images/pelican.svg" > </a></center>
