@@ -1,5 +1,7 @@
 # Mission Vision Values Strategies
 
+_Text to help Theo remember what to say about mission and vision. Could always use more thoughts!_
+
 https://en.wikipedia.org/wiki/Strategic_planning
 
 From Aspirational to Achievable to Specific & Tangible
