@@ -72,6 +72,7 @@
 			xhr.onload = () => {
 				const txt = xhr.responseText.replace( /\<!--@@@?/g, "" ).replace( /\@@@-->?/g, "" );
 				RMdivContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
+				window.scrollTo( 0, 0 );
 			};
 			xhr.send( null );
 		}
