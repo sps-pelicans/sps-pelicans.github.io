@@ -4,7 +4,7 @@
 value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
 
 
-# [Spider /lib/style Read Me]( ./readme.html )
+# [/lib/style Read Me]( ./readme.html )
 
 <!--
 <div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://www.ladybug.tools/spider-2020/lib/style/ height=100% width=100% ></iframe></div>
@@ -43,6 +43,9 @@ Switching themes
 
 ## Change Log
 
+### 2020-09-17
+
+* Cleanup
 
 ### 2020-07-05
 
@@ -51,5 +54,5 @@ Switching themes
 
 ***
 
-<center title="hello! Click me to go up to the top" ><a href=javascript:window.scrollTo(0,0); style=text-decoration:none; > <img width=24 src="https://ladybug.tools/artwork/icons_bugs/ico/spider.ico" > </a></center>
+<center title="hello! Click me to go up to the top" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❦ </a></center>
 
