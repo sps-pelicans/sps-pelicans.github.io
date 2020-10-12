@@ -1,9 +1,11 @@
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://sps-pelicans.github.io/#mission.md "View file as a web page." ) </span>
+
 # Mission
 
 _the fundamental purpose applicable now as well as in the future_
 
 
-## Text by theo on 2020-10-11
+## Text by Theo on 2020-10-11
 
 There will always issues with student and staff where something falls between the cracks. Because intimately familiar with the School and yet being completely independent of the school the Pelicans can offer ears with less bias and and wide sensitivity.
 
@@ -21,7 +23,7 @@ Mission ~ what we do now
 * We help people of disparate backgrounds make decisions that bring us together
 
 
-## _Text from home page readme of 2020-09-13
+## Text mission statement on home page readme of 2020-09-13
 
 
 A platform where Saint Paul's School community members - students, staff, alums and parents - of all ages convene to have their voices heard, share thoughts, mentor each other, network with each other, etc.
