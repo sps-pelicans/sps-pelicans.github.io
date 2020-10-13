@@ -4,7 +4,7 @@
 
 _the fundamental purpose applicable now as well as in the future_
 
-## Test by Theo - Respose to SPP survey questions of 2020-10-13
+## Test by Theo - Respose to SPS survey questions of 2020-10-13
 
 Plans that enable the New England boarding school movement to stay alive for the next fifty years.
 
@@ -13,6 +13,14 @@ Plans that that help SPS set an example and are a resource that helps  education
 Sharing successful remedies and lessons learned for helping students and staff, present and alumni that have "fallen through the cracks" in the pursuit of the objectives of the School Prayer.
 
 Ways of building up life-long, in-your-locale associations of SPS-connected scholar-athletes
+
+## Test by Jose on 2020-10-12
+
+
+In terms of our project, my mission is simply to “connect the different members of the SPS community to be able (1) to connect with fellow community members and (2) to allow members to promote their initiatives”.  
+
+My vision is twofold.  First, by creating this SPS-related social network, members will be able to help themselves excel, help the SPS community, help their local community, and/or help the global community.  Second, once other communities see the success of our social network, they will replicate it to help their community do the same.
+
 
 ## Text by Theo on 2020-10-11
 
