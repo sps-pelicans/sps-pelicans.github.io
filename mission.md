@@ -4,6 +4,15 @@
 
 _the fundamental purpose applicable now as well as in the future_
 
+## Test by Theo - Respose to SPP survey questions of 2020-10-13
+
+Plans that enable the New England boarding school movement to stay alive for the next fifty years.
+
+Plans that that help SPS set an example and are a resource that helps  education throughout the USA to ne more diverse, equitable and smarter.
+
+Sharing successful remedies and lessons learned for helping students and staff, present and alumni that have "fallen through the cracks" in the pursuit of the objectives of the School Prayer.
+
+Ways of building up life-long, in-your-locale associations of SPS-connected scholar-athletes
 
 ## Text by Theo on 2020-10-11
 
